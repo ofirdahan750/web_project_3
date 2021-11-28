@@ -1,0 +1,12 @@
+.header {
+  margin: 34px auto 90px;
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 320px) {
+  .header {
+    margin: 20px auto 50px;
+    max-width: 200px;
+    height: 50px;
+  }
+}
