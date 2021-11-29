@@ -1,9 +1,10 @@
+/* Font Rule */
+@import url("../fonts/inter/inter.css");
 /* Vendor */
 @import url("../vendor/normalize.css");
 
 @import url("../blocks/page/page.css");
 /* Root */
-@import url("../blocks/root/fonts/inter/inter.css");
 @import url("../blocks/root/root.css");
 
 /* Header */
