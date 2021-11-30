@@ -1,0 +1,22 @@
+.place {
+    display: grid;
+    grid-template-columns: 460px 484px;
+    /* grid-template-rows: repeat(2, 1fr) 300px; */
+    gap: 0 40px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "place__title place__website"
+      "place__image place__paragraph-container"
+      "place__button .";
+  }
+  
+  .place__title { grid-area: place__title; }
+  
+  .place__image { grid-area: place__image; }
+  
+  .place__button { grid-area: place__button; }
+  
+  .place__website { grid-area: place__website; }
+  
+  .place__paragraph-container { grid-area: place__paragraph-container; }
+  

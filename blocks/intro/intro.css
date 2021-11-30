@@ -1,4 +1,17 @@
 .intro {
-    max-width: 984px;
-    margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  max-width: 984px;
+  margin:0 auto 118px;
+}
+@media (max-width:768px) {
+  .intro  {
+  max-width: 90%
+}
+}
+
+@media (max-width : 768px) {
+  .intro {
+    margin: 0 auto 90px;
+    }
 }

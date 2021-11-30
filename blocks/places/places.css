@@ -1,0 +1,9 @@
+.places {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    max-width: 984px;
+}
