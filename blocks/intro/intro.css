@@ -4,14 +4,11 @@
   max-width: 984px;
   margin:0 auto 118px;
 }
-@media (max-width:768px) {
-  .intro  {
-  max-width: 90%
-}
-}
+
 
 @media (max-width : 768px) {
   .intro {
+    max-width: 90%;
     margin: 0 auto 90px;
     }
 }
