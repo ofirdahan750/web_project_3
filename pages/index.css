@@ -7,6 +7,10 @@
 /* Root */
 @import url("../blocks/root/root.css");
 
+/* blue-button  */
+@import url("../blocks/blue-button/blue-button.css");
+
+
 /* Header */
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
@@ -48,3 +52,6 @@
 @import url("../blocks/place/__website/place__website/__url-artist/place__website__url-artist.css");
 @import url("../blocks/place/__paragraph-container/place__paragraph-container.css");
 @import url("../blocks/place/__paragraph/place__paragraph.css");
+
+/* cover */
+@import url("../blocks/cover/cover.css");

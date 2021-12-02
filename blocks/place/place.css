@@ -1,11 +1,14 @@
 .place {
   display: grid;
-  grid-template-columns: 460px 1fr;
+  grid-template-columns:1fr;
+  grid-template-rows: repeat(2, max-content) 1fr; 
+  /* grid-template-rows: 1fr max-content 1fr;  */
   gap: 48px 40px;
   grid-auto-flow: row;
   grid-template-areas:
     "place__title place__website"
-    "place__city-container place__paragraph-container";
+    "place__image place__paragraph-container"
+    "place__button place__paragraph-container"
 }
 
 .place__title {
@@ -31,20 +34,22 @@
   grid-area: place__paragraph-container;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 778px) {
   .place {
-    grid-template-columns: 1fr 1fr;
-    gap: 28px 40px;
+    grid-template-columns: 340px 1fr;
+    /* grid-template-rows: repeat(2, max-content) 1fr;  */
+    gap: 28px 46px;
   }
 }
-@media (max-width: 736px) {
+@media (max-width: 585px) {
   .place {
-    gap: 0;
-    grid-template-columns: 1fr; 
+    gap: 30px 0;
+    grid-template-columns: 16px 1fr 16px; 
     grid-template-areas:
-      "place__title"
-      "place__website"
-      "place__city-container"
-      "place__paragraph-container"
+      ". place__title ."
+      ". place__website ."
+      "place__image place__image place__image"
+      ". place__paragraph-container ."
+      ". place__button ."
   }
 }

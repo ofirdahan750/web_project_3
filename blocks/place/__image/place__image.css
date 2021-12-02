@@ -1,8 +1,9 @@
 .place__image {
     object-fit: cover;
+    height: auto;
 }
-@media (max-width : 1024px) {
+@media (max-width : 778px) {
     .place__image {
-    width: 340px;
+width: 100%;
     }
   }

@@ -1,5 +1,8 @@
 .places-section {
-
-  margin: 0 auto;
-  max-width: 987px;
+  margin: 0 auto 92px;
 }
+@media (max-width : 585px) {
+  .places-section {
+    margin: 0 auto 64px;
+  }
+  }

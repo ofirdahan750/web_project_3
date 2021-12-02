@@ -12,12 +12,12 @@
 @media (max-width: 768px) {
   .photo-grid {
     max-width: calc((100% - (24px * 2)));
-    margin: 0 auto 88px;
+    margin: 0 auto 89px;
   }
 }
 @media (max-width: 320px) {
   .photo-grid {
-    margin: 0 auto 90px;
+    margin: 0 auto 62px;
     max-width: calc((100% - (16px * 2)));
   }
 }

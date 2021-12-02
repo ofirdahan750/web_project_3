@@ -1,9 +1,9 @@
 .place__button {
-    background-color: rgba(2, 120, 254, 1);
-	border: none;
-	padding: 13px 20px;
-	cursor: pointer;
-	outline: inherit;
-	border-radius: 4px;
-	margin: 48px 0 0;
+  width: 248px;
+  height: 48px;
+}
+@media (max-width: 585px) {
+  .place__button {
+    width: auto;
+  }
 }
