@@ -1,9 +1,8 @@
 .lead__image {
-    /* width: 100%; */
-    object-fit: cover;
+  object-fit: cover;
 }
-@media (max-width : 984px) {
-    .lead__image {
-        width: 100%;
-    }
+@media (max-width: 984px) {
+  .lead__image {
+    width: 100%;
+  }
 }

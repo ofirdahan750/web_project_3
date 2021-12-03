@@ -3,12 +3,6 @@
   max-width: calc((100% - (48px * 2)));
 }
 
-/* @media (max-width: 1280px) { 
-    .photo-grid {
-      max-width: 720px;
-  
-    }
-  } */
 @media (max-width: 768px) {
   .photo-grid {
     max-width: calc((100% - (24px * 2)));

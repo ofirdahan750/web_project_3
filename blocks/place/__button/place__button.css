@@ -1,6 +1,7 @@
 .place__button {
   width: 248px;
   height: 48px;
+  grid-area: place__button;
 }
 @media (max-width: 585px) {
   .place__button {

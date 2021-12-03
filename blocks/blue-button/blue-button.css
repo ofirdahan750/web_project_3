@@ -1,7 +1,7 @@
 .blue-button {
-    background-color: rgba(2, 120, 254, 1);
-	border: none;
-	padding: 13px 20px;
-	cursor: pointer;
-    border-radius: 4px;
+  background-color: rgba(2, 120, 254, 1);
+  border: none;
+  padding: 13px 20px;
+  border-radius: 4px;
+  cursor: pointer;
 }

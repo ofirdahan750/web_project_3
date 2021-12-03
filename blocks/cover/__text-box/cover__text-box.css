@@ -1,19 +1,19 @@
 .cover__text-box {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    margin:0 auto;
-    max-width:calc((100% - (264px * 2)));
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+  max-width: calc((100% - (264px * 2)));
 }
-@media (max-width : 1185px) {
-    .cover__text-box {
-        min-width:calc((100% - (56px * 2)));
-    }
+@media (max-width: 1185px) {
+  .cover__text-box {
+    min-width: calc((100% - (56px * 2)));
   }
-@media (max-width : 432px) {
-    .cover__text-box {
-        max-width:calc((100% - (16px * 2)));
-    }
+}
+@media (max-width: 432px) {
+  .cover__text-box {
+    max-width: calc((100% - (16px * 2)));
   }
+}

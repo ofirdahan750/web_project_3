@@ -7,8 +7,8 @@
   text-align: center;
 }
 @media (max-width: 432px) {
-    .cover__title {
-      font-size: 2rem;
-      line-height: 1.09375;
-    }
+  .cover__title {
+    font-size: 2rem;
+    line-height: 1.09375;
   }
+}

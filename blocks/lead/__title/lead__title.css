@@ -6,18 +6,16 @@
   line-height: 1.04;
   max-width: 793px;
 }
-@media (max-width :500px) {
+@media (max-width: 500px) {
   .lead__title {
-    /* max-width: 100%; */
     font-size: 2.5rem;
     line-height: 1.1;
   }
 }
 
-@media (max-width : 780px) {
+@media (max-width: 780px) {
   .lead__title {
     width: 100%;
-    max-width: 720px
-
+    max-width: 720px;
   }
 }
