@@ -7,7 +7,7 @@
   grid-area: place__title;
 }
 @media (max-width : 778px) {
-  .place__title  {
+  .place__title {
     font-size: 2.625rem;
     line-height: 1.0952;
   }
