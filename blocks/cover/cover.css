@@ -2,7 +2,7 @@
   display: grid;
   height: calc(0.664 * 100vw);
   height: 100vw;
-  max-height: 746px;
+  max-height: 740px;
   grid-template-columns: 48px 1fr 48px;
   grid-template-areas: ". cover__background .";
   margin: 0 auto 92px;
@@ -20,6 +20,7 @@
 @media (max-width: 768px) {
   .cover {
     margin: 0 auto 88px;
+    max-height: 746px;
   }
 }
 @media (max-width: 320px) {
