@@ -1,13 +1,19 @@
 .intro {
-  display: flex;
-  flex-direction: column;
-  max-width: 984px;
+  display: grid;
+  max-width: 100%;
   margin: 0 auto 118px;
-}
+  grid-template-columns: 785px 1fr; 
+  max-width: 984px;
 
-@media (max-width: 1025px) {
+}
+@media (max-width:785px) {
   .intro {
-    max-width: 90%;
-    margin: 0 auto 90px;
+    grid-template-columns: 24px 1fr 24px; 
   }
 }
+@media (max-width:435px) {
+  .intro {
+    grid-template-columns: 16px 1fr 16px; 
+  }
+}
+

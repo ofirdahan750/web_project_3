@@ -10,8 +10,8 @@
 /* Root */
 @import url("../blocks/root/root.css");
 
-/* blue-button  */
-@import url("../blocks/blue-button/blue-button.css");
+/* button-blue  */
+@import url("../blocks/button-blue/button-blue.css");
 
 /* Header */
 @import url("../blocks/header/header.css");
@@ -28,7 +28,7 @@
 @import url("../blocks/intro/__wrapper/intro__wrapper.css");
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__quote/intro__quote.css");
-@import url("../blocks/intro__quote-author/intro__quote-author.css");
+@import url("../blocks/intro/__quote-author/intro__quote-author.css");
 @import url("../blocks/intro/__text/intro__text.css");
 
 /* photo-grid */

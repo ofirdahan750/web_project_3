@@ -1,4 +1,5 @@
-.blue-button {
+.button-blue {
+  text-align: center;
   background-color: rgba(2, 120, 254, 1);
   border: none;
   padding: 13px 20px;

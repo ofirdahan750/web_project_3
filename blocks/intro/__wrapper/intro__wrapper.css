@@ -1,11 +1,12 @@
 .intro__wrapper {
-  max-width: 765px;
-  margin: 0 auto 0 0;
+  grid-area: 1 / 1 / 4 / 2;
+  display: grid; 
+  grid-template-columns: 1fr 65px; 
 }
-
-@media (max-width: 768px) {
+@media (max-width: 785px) {
   .intro__wrapper {
-    max-width: 100%;
-    margin: 0 auto;
+    grid-area: 1 / 2 / 4 / 3;
   }
 }
+
+.intro__title { grid-area: 1 / 1 / 2 / 3; }

@@ -4,18 +4,12 @@
   font-size: 6rem;
   font-weight: 900;
   line-height: 1.04;
-  max-width: 793px;
+  grid-area: 1 / 2 / 2 / 3;
+
 }
 @media (max-width: 500px) {
   .lead__title {
     font-size: 2.5rem;
     line-height: 1.1;
-  }
-}
-
-@media (max-width: 780px) {
-  .lead__title {
-    width: 100%;
-    max-width: 720px;
   }
 }
