@@ -10,6 +10,5 @@
   .intro__quote {
     grid-area: 2 / 1 / 3 / 3;
     line-height: 1.25;
-
   }
 }

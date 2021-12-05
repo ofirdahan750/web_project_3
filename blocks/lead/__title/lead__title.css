@@ -5,7 +5,6 @@
   font-weight: 900;
   line-height: 1.04;
   grid-area: 1 / 2 / 2 / 3;
-
 }
 @media (max-width: 500px) {
   .lead__title {

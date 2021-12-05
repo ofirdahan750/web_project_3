@@ -1,7 +1,7 @@
 .intro__wrapper {
   grid-area: 1 / 1 / 4 / 2;
-  display: grid; 
-  grid-template-columns: 1fr 65px; 
+  display: grid;
+  grid-template-columns: 1fr 65px;
 }
 @media (max-width: 990px) {
   .intro__wrapper {
