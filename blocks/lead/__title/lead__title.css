@@ -1,0 +1,14 @@
+.lead__title {
+  margin: 0 auto;
+  padding: 0;
+  font-size: 6rem;
+  font-weight: 900;
+  line-height: 1.04;
+  grid-area: 1 / 2 / 2 / 3;
+}
+@media (max-width: 538px) {
+  .lead__title {
+    font-size: 2.5rem;
+    line-height: 1.1;
+  }
+}

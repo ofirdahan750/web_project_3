@@ -1,0 +1,10 @@
+.place__image {
+  object-fit: cover;
+  grid-area: place__image;
+
+}
+@media (max-width: 778px) {
+  .place__image {
+    width: 100%;
+  }
+}

@@ -1,0 +1,10 @@
+.place__button {
+  max-width: max-content;
+  height: fit-content;
+  grid-area: place__button;
+}
+@media (max-width: 585px) {
+  .place__button {
+    max-width: 100%;
+  }
+}
