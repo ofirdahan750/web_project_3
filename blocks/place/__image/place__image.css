@@ -1,6 +1,5 @@
 .place__image {
   object-fit: cover;
-  height: auto;
   grid-area: place__image;
 
 }

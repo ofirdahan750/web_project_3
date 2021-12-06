@@ -26,5 +26,6 @@
 @media (max-width: 320px) {
   .cover {
     margin: 0 auto 64px;
+    max-height: 254px;
   }
 }

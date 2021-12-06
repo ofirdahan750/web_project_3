@@ -6,9 +6,8 @@
   font-weight: 400;
   grid-area: 4 / 1 / 5 / 2;
 }
-@media (max-width: 500px) {
+@media (max-width: 768px) {
   .intro__text {
-    line-height: 1.25;
     grid-area: 4 / 1 / 5 / 3;
   }
 }

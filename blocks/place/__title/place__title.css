@@ -10,5 +10,12 @@
   .place__title {
     font-size: 2.625rem;
     line-height: 1.0952;
+    align-self: end;
+  }
+}
+@media (max-width: 320px) {
+  .place__title {
+    font-size: 2.1875rem;
+    line-height: 1.09375;
   }
 }

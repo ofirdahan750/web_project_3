@@ -7,12 +7,12 @@
   grid-area: 2 / 2 / 3 / 3;
 }
 
-@media (max-width: 728px) {
+@media (max-width: 768px) {
   .lead__subtitle {
     margin: 32px auto 36px;
   }
 }
-@media (max-width: 525px) {
+@media (max-width: 538px) {
   .lead__subtitle {
     margin: 16px auto 40px;
     font-size: 1rem;

@@ -5,6 +5,7 @@
   font-size: 4.5rem;
   line-height: 1.0555;
   text-align: center;
+  grid-area: 1 / 1 / 2 / 4;
 }
 @media (max-width: 320px) {
   .cover__title {
