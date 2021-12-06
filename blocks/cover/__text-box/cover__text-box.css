@@ -1,4 +1,4 @@
-.cover__text-box {
+/* .cover__text-box {
   text-align: center;
   margin: 0 auto;
   grid-area: 2 / 2 / 3 / 3;
@@ -12,4 +12,18 @@
   .cover__text-box {
     gap: 16px 0px;
   }
+} */
+.cover__text-box {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr max-content 1fr;
+
+  gap: 32px 0px;
+}
+.cover__title {
+  grid-area: 1 / 1 / 2 / 4;
+}
+
+.cover__button {
+  grid-area: 3 / 2 / 4 / 3;
 }
