@@ -3,10 +3,14 @@
 ## Project name: Practicum Project 3 From Homeland to Homeland By Ofir Dahan
 
 ### Overview
-
-- Description
-- Figma
-- Images
+* Intro
+* Description
+* Figma
+* Dependencies
+* Installing
+* Executing program
+* Images
+* Github Link
 
 ## Intro
 
