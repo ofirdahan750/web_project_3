@@ -41,13 +41,9 @@
   min-height: 720px;
   margin: 0 auto 92px;
   max-width: 1184px;
-  display: grid;
-  grid-auto-columns: 1fr;
-  grid-template-columns: 1fr 656px 1fr;
-  grid-template-rows: 1fr max-content 1fr;
-}
-.cover__text-box {
-  grid-area: 2 / 2 / 3 / 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media (max-width: 768px) {
