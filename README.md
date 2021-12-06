@@ -21,22 +21,24 @@ Built without the use of external directories except the normalize.css file.
 
 - [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
 
-### Dependencies
+## Dependencies
 
 None.
 
-### Installing
+## Installing
 
 No additional installation is required beyond taking or using NPM.
 
-### Executing program
+## Executing program
 
 Live-server is recommended
 
-### Images
+## Images
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
 Good luck and have fun!
+
+## Github Link
 
 <https://ofirdahan750.github.io/web_project_3/>
