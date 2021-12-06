@@ -32,7 +32,8 @@ No additional installation is required beyond taking or using NPM.
 ### Executing program
 
 Live-server is recommended
-**Images**
+
+### Images
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
 
