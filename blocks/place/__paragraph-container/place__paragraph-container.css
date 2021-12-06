@@ -1,6 +1,7 @@
 .place__paragraph-container {
   grid-area: place__paragraph-container;
+  display: flex;
+  flex-direction: column;
+  gap: 25px 0;
 }
-.place__paragraph-container > *:not(:last-child) {
-  margin: 0 0 25px;
-}
+
