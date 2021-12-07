@@ -3,11 +3,14 @@
   background-color: rgba(2, 120, 254, 1);
   border: none;
   padding: 13px 20px;
-  color: #FFFFFF;
+  color: #ffffff;
   border-radius: 4px;
   cursor: pointer;
   font-weight: 600;
   text-decoration: none;
   font-size: 1.125rem;
   line-height: 1.2222;
+}
+.button-blue:hover {
+  background-color: #0063d2;
 }

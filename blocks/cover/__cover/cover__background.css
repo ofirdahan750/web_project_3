@@ -1,9 +1,0 @@
-.cover__background {
-  background-image: url("../../../images/cover/cover-background.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-.cover__background:hover {
-  opacity: 0.8;
-}

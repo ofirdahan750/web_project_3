@@ -16,6 +16,6 @@
 }
 @media (max-width: 30px) {
   .cover__paragraph {
-max-width: 60%;
+    max-width: 60%;
   }
 }

@@ -3,8 +3,8 @@
   font-size: 0.875rem;
   line-height: 1.14285;
   text-align: center;
-margin: 0;
-padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .footer__copyright::before {
   content: "\00a9 ";
