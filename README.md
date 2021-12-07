@@ -32,7 +32,8 @@ None.
 
 ## Installing
 
-No additional installation is required beyond taking or using NPM.
+No additional installation is required.
+Just run the command on Git CLI " git clone ".
 
 ## Executing program
 
