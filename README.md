@@ -1,16 +1,17 @@
-# Project 3: From Homeland to Homeland
+# Project 3: Pixel Perfect From Homeland to Homeland
 
-## Project name: Practicum Project 3 From Homeland to Homeland By Ofir Dahan
+## Project name: Practicum Project 3 Pixel Perfect From Homeland to Homeland By Ofir Dahan
 
 ### Overview
-* Intro
-* Description
-* Figma
-* Dependencies
-* Installing
-* Executing program
-* Images
-* Github Link
+
+- Intro
+- Description
+- Figma
+- Dependencies
+- Installing
+- Executing program
+- Images
+- Github Link
 
 ## Intro
 
